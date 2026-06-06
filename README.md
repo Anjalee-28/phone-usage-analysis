@@ -18,9 +18,9 @@ Analyzed 7 days of personal smartphone usage data to understand app usage patter
 ## Results
 
 ### App Usage Distribution
-![Pie Chart](piechart)
+![Pie Chart](piechart.png)
 ### Daily Usage Trend
-![Line Chart](linechart)
+![Line Chart](linechart.png)
 
 ## How to Run
 1.Clone this repository
